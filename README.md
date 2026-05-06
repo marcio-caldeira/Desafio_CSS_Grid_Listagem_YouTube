@@ -74,7 +74,8 @@ A interface contém:
 
 ## 📸 Preview do Projeto
 
-*(Adicione aqui um print do seu projeto depois de subir no GitHub)*
+<img width="1904" height="849" alt="image" src="https://github.com/user-attachments/assets/55184e95-07ef-4bb7-8b2d-ec2a7037bb77" />
+
 
 ---
 
